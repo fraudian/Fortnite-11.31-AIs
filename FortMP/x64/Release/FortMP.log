@@ -1,0 +1,2381 @@
+﻿  dllmain.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\dllmain.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'dllmain.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Gamemode.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Gamemode.cpp(153,36): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'Gamemode.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Misc.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(195,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(197,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(198,96): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(200,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(201,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(203,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(211,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(213,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(214,96): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(216,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(230,44): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(277,24): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(279,24): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(335,70): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(367,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(369,109): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Misc.cpp(369,176): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'Misc.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  NetDriver.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'NetDriver.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  PC.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'PC.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(86,84): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(87,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(115,44): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(115,136): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(117,72): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(129,104): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(130,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(148,81): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(150,78): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(150,154): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(173,27): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(213,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(214,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(216,75): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(218,133): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(218,212): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(219,130): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(219,209): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(220,130): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(220,209): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(220,296): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(253,66): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(295,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(297,104): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(297,236): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(297,294): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(315,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(317,83): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(364,44): warning C4244: 'argument': conversion from 'const float' to 'int32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(365,132): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(460,89): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(462,110): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(462,266): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(462,335): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(476,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(477,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(537,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(544,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(551,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(619,22): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(652,82): warning C4244: 'argument': conversion from 'float' to 'int32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(653,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(679,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(682,86): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\PC.cpp(831,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'PC.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Quest.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Quest.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Quest.cpp(9,80): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Quest.cpp(42,75): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'Quest.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  AIModule_functions.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/AIModule_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Basic.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/Basic.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  CoreUObject_functions.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Engine_functions.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/Engine_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  FortniteGame_functions.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  GameplayAbilities_functions.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Utils.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'Utils.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(95,31): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(97,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(97,78): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(115,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(509,65): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(512,65): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(513,92): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(514,69): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(516,121): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(516,254): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(516,313): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(517,69): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(518,96): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(520,109): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(535,57): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(537,57): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(538,57): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(548,61): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(550,74): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(557,57): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(559,70): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(576,61): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(578,61): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(579,88): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(580,65): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(583,78): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(587,109): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(597,61): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(599,74): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(620,54): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(622,84): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(632,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.cpp(633,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'Utils.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  World.cpp
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(190,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(638,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Engine_structs.hpp(3354,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(3171,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\FortniteGame_structs.hpp(5546,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(340,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(341,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(362,137): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(364,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(376,92): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(377,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(378,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(379,107): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(389,104): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(411,181): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(416,161): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(429,58): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(444,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(446,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(449,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(451,107): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(454,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(456,111): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(459,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(461,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(464,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(466,101): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(469,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(471,113): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(474,33): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(476,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(525,26): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(526,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(528,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(530,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(546,29): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(548,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(563,82): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(565,41): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(571,28): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(573,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(575,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(680,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(682,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(698,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,105): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(700,167): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(711,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(735,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,132): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(737,288): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(748,101): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(783,19): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(993,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,231): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(995,284): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1006,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1007,68): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1019,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1026,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\Utils.h(1033,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'World.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'World.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\fract\OneDrive\Desktop\backup\11.31\FortMP\SDK\Basic.hpp(218,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1441 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FortMP.vcxproj -> C:\Users\fract\OneDrive\Desktop\backup\11.31\x64\Release\11.31.dll
